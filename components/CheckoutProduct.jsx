@@ -46,7 +46,7 @@ function CheckoutProduct({ id, title, price, description, image, category, ratin
                             alt="" 
                         />
 
-                        <p className="text-xs text-gray-500">FREE Next-day Delivery</p>
+                        <p className="text-xs text-gray-500">Free Next-day Delivery</p>
                     </div>
                 )}
             </div>
